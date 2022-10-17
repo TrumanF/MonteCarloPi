@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/truma/Documents/GitHub/CLionProjects/MonteCarloPi/GenerateCN.h
+vector
+-
+math.h
+C:/Users/truma/Documents/GitHub/CLionProjects/MonteCarloPi/math.h
+
+C:/Users/truma/Documents/GitHub/CLionProjects/MonteCarloPi/Simulation.cpp
+random
+-
+Simulation.h
+C:/Users/truma/Documents/GitHub/CLionProjects/MonteCarloPi/Simulation.h
+cmath
+-
+GenerateCN.h
+C:/Users/truma/Documents/GitHub/CLionProjects/MonteCarloPi/GenerateCN.h
+ctime
+-
+iostream
+-
+fstream
+-
+
+C:/Users/truma/Documents/GitHub/CLionProjects/MonteCarloPi/Simulation.h
+vector
+-
+

@@ -1,0 +1,3 @@
+C:/Users/truma/Documents/GitHub/CLionProjects/MonteCarloPi/cmake-build-debug/CMakeFiles/MonteCarloPi.dir
+C:/Users/truma/Documents/GitHub/CLionProjects/MonteCarloPi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/truma/Documents/GitHub/CLionProjects/MonteCarloPi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
